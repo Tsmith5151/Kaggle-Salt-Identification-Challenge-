@@ -1,1 +1,1 @@
-# Kaggle---Salt-Identification-Challenge-
+# Kaggle-Salt-Identification-Challenge-
